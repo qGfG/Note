@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.test-data/
+dist/
+build/
+*.spec
+notes.db*
+.notes.lock
+images/
